@@ -8,11 +8,6 @@ I am passionate about artificial intelligence, machine learning, and backend dev
 
 💡 Recent work includes developing **DPMamba**, a dual-perspective Mamba network for hyperspectral unmixing, showcasing my expertise in cutting-edge AI research and implementation.
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=cornjosh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cornjosh&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
-</p>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cornjosh&color=brightgreen&style=flat-square)
@@ -37,8 +32,6 @@ I am passionate about artificial intelligence, machine learning, and backend dev
 ### 🤖 AI/ML Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 🛠 Backend Technologies  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -56,27 +49,24 @@ I am passionate about artificial intelligence, machine learning, and backend dev
 
 ## 📫 Reach Me
 
-- Email: [i@linkyou.top](mailto:i@linkyou.top)
+- Blog: [linkyou.top](https://linkyou.top)
+- Email: [zylntxx@gmail.com](mailto:zylntxx@gmail.com)
 - Github: [@cornjosh](https://github.com/cornjosh)
 
 ## 🌟 Featured Projects
 
 [![DPMamba](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=DPMamba&theme=graywhite&hide_border=true)](https://github.com/cornjosh/DPMamba)
 [![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=Aminer&theme=graywhite&hide_border=true)](https://github.com/cornjosh/Aminer)
+[![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=location&theme=graywhite&hide_border=true)](https://github.com/cornjosh/location)
+[![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=one-boarding&theme=graywhite&hide_border=true)](https://github.com/cornjosh/one-boarding)
 
 ## 📈 GitHub Activity
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cornjosh&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cornjosh&theme=github-compact&hide_border=true)
-
-</div>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=cornjosh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cornjosh&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+</p>
 
 
 <!---
