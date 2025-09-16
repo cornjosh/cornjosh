@@ -56,9 +56,10 @@ I am passionate about artificial intelligence, machine learning, and backend dev
 ## 🌟 Featured Projects
 
 [![DPMamba](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=DPMamba&theme=graywhite&hide_border=true)](https://github.com/cornjosh/DPMamba)
+[![AndroidPlayer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=AndroidPlayer&theme=graywhite&hide_border=true)](https://github.com/cornjosh/AndroidPlayer)
 [![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=Aminer&theme=graywhite&hide_border=true)](https://github.com/cornjosh/Aminer)
-[![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=location&theme=graywhite&hide_border=true)](https://github.com/cornjosh/location)
-[![Aminer](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=one-boarding&theme=graywhite&hide_border=true)](https://github.com/cornjosh/one-boarding)
+[![location](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=location&theme=graywhite&hide_border=true)](https://github.com/cornjosh/location)
+[![one-boarding](https://github-readme-stats.vercel.app/api/pin/?username=cornjosh&repo=one-boarding&theme=graywhite&hide_border=true)](https://github.com/cornjosh/one-boarding)
 
 ## 📈 GitHub Activity
 
