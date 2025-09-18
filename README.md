@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello 👋
 
 Hi guys, I'm **Josh** 🚀, a Computer Science Master's student at **Ocean University of China** (中国海洋大学信息科学与工程学部). 
 
@@ -64,12 +64,12 @@ I am passionate about artificial intelligence, machine learning, and backend dev
 
 ## 📈 GitHub Activity
 
-
+<!---
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=cornjosh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cornjosh&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
-
+--->
 
 <!---
 cornjosh/cornjosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
